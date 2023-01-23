@@ -31,9 +31,6 @@ public class Controller1 {
             String login = TF1.getText().trim();
             String pass = PF1.getText().trim();
 
-            System.out.println("Логин: " + TF1.getText());
-            System.out.println("Пароль: " + PF1.getText());
-
             if(!login.equals("") && !pass.equals(""))
                 loginUsers(login, pass);
 
