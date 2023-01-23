@@ -25,10 +25,10 @@ public class Result {
                     int id = resultSet.getInt(1);
                     String name = resultSet.getString(2);
                     String login = resultSet.getString(3);
-                    int pass = resultSet.getInt(4);
+                    String pass = resultSet.getString(4);
                     String country = resultSet.getString(5);
                     String city = resultSet.getString(6);
-                    System.out.printf("%d. %s: %s; %d (%s, %s)\n", id, name, login, pass, country, city);
+                    System.out.printf("%d. %s: %s; %s (%s, %s)\n", id, name, login, pass, country, city);
 
                 }
             }
