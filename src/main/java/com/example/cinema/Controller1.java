@@ -72,7 +72,7 @@ public class Controller1 {
         DateBase dbBase = new DateBase();
         User user  =new User();
         user.setLogin(login);
-        user.setPassword(pass);
+        user.setPassword(MD5.hashingPassword(pass));
         ResultSet result = dbBase.getUser(user);
 
         int counter = 0;

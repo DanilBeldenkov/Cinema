@@ -44,7 +44,6 @@ public class Controller2 {
             catch (IOException ex) {
                 throw new RuntimeException(ex);
             }
-
         });
     }
 
@@ -57,11 +56,12 @@ public class Controller2 {
         String Country = TF4.getText();
         String City = TF5.getText();
 
+        Password = MD5.hashingPassword(Password);
+
         User user = new User(FirstName, Login, Password, Country, City);
 
         dbBase.signUpUser(user);
     }
-
 
 
 }
