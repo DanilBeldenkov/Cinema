@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f1f3c8a-a47f-4990-a553-a2c870b8177a" name="Changes" comment="Pattern">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/MD5.java" afterDir="false" />
+    <list default="true" id="9f1f3c8a-a47f-4990-a553-a2c870b8177a" name="Changes" comment="MD5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Window3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Window3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window3.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window3.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +64,7 @@
       <recent name="com.example.cinema" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Window2">
+  <component name="RunManager" selected="Application.Window1">
     <configuration name="MD5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.cinema.MD5" />
       <module name="Cinema" />
@@ -147,8 +145,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Window2" />
         <item itemvalue="Application.Window1" />
+        <item itemvalue="Application.Window2" />
         <item itemvalue="Application.Result" />
         <item itemvalue="Application.MD5" />
         <item itemvalue="Application.Main" />
@@ -171,11 +169,19 @@
       <option name="project" value="LOCAL" />
       <updated>1674454784702</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="MD5">
+      <created>1674473955272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674473955272</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pattern" />
+    <MESSAGE value="MD5" />
+    <option name="LAST_COMMIT_MESSAGE" value="MD5" />
   </component>
 </project>
