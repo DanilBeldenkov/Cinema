@@ -48,5 +48,77 @@ public class Controller3 {
                 throw new RuntimeException(ex);
             }
         });
+        B2.setOnAction(e -> {
+            Window4 window4 = new Window4();
+            try {
+                window4.start(new Stage());
+                B2.getScene().getWindow().hide();
+            } catch (IOException ex) {
+                throw new RuntimeException(ex);
+            }
+        });
+        B3.setOnAction(e -> {
+            Window4 window4 = new Window4();
+            try {
+                window4.start(new Stage());
+                B3.getScene().getWindow().hide();
+            } catch (IOException ex) {
+                throw new RuntimeException(ex);
+            }
+        });
+        B4.setOnAction(e -> {
+            Window4 window4 = new Window4();
+            try {
+                window4.start(new Stage());
+                B4.getScene().getWindow().hide();
+            } catch (IOException ex) {
+                throw new RuntimeException(ex);
+            }
+        });
+        B5.setOnAction(e -> {
+            Window4 window4 = new Window4();
+            try {
+                window4.start(new Stage());
+                B5.getScene().getWindow().hide();
+            } catch (IOException ex) {
+                throw new RuntimeException(ex);
+            }
+        });
+        B6.setOnAction(e -> {
+            Window4 window4 = new Window4();
+            try {
+                window4.start(new Stage());
+                B6.getScene().getWindow().hide();
+            } catch (IOException ex) {
+                throw new RuntimeException(ex);
+            }
+        });
+        B7.setOnAction(e -> {
+            Window4 window4 = new Window4();
+            try {
+                window4.start(new Stage());
+                B7.getScene().getWindow().hide();
+            } catch (IOException ex) {
+                throw new RuntimeException(ex);
+            }
+        });
+        B8.setOnAction(e -> {
+            Window4 window4 = new Window4();
+            try {
+                window4.start(new Stage());
+                B8.getScene().getWindow().hide();
+            } catch (IOException ex) {
+                throw new RuntimeException(ex);
+            }
+        });
+        B9.setOnAction(e -> {
+            Window4 window4 = new Window4();
+            try {
+                window4.start(new Stage());
+                B9.getScene().getWindow().hide();
+            } catch (IOException ex) {
+                throw new RuntimeException(ex);
+            }
+        });
     }
 }
