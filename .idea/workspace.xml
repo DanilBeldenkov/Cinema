@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f1f3c8a-a47f-4990-a553-a2c870b8177a" name="Changes" comment="Result">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerAdmin0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerAdmin1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Window4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowAdmin0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowAdmin1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window4.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowAdmin0.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowAdmin1.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Configs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Configs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/DateBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/DateBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Editor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Editor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window3.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window3.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +60,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Projects/IntelliJIDEAProjects/JavaFX3",
+    "last_opened_file_path": "D:/Projects/IntelliJIDEAProjects/Cinema/Cinema",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -63,46 +78,7 @@
       <recent name="com.example.cinema" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Window1">
-    <configuration name="MD5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.cinema.MD5" />
-      <module name="Cinema" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.cinema.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.cinema.Main" />
-      <module name="Cinema" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.cinema.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Result" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.cinema.Result" />
-      <module name="Cinema" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.cinema.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Window3">
     <configuration name="Window1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.cinema.Window1" />
       <module name="Cinema" />
@@ -142,13 +118,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Window3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.cinema.Window3" />
+      <module name="Cinema" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.cinema.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowAdmin0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.cinema.WindowAdmin0" />
+      <module name="Cinema" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.cinema.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowError2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.cinema.WindowError2" />
+      <module name="Cinema" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.cinema.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Window3" />
         <item itemvalue="Application.Window1" />
-        <item itemvalue="Application.Result" />
         <item itemvalue="Application.Window2" />
-        <item itemvalue="Application.MD5" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.WindowError2" />
+        <item itemvalue="Application.WindowAdmin0" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674508134694</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Result">
+      <created>1674509473127</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674509473127</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

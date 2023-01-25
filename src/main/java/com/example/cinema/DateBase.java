@@ -10,7 +10,7 @@ public class DateBase extends Configs {
 
     public Connection getDbConnection()
             throws ClassNotFoundException, SQLException {
-        String connectionString = "jdbc:mysql://" + dbHost + ":" + dbPort + "/" + dbName + "?serverTimezone=Europe/Moscow&useSSL=false";
+        String connectionString = "jdbc:mysql://" + dbHost + ":" + dbPort + "/" + dbName1 + "?serverTimezone=Europe/Moscow&useSSL=false";
         Class.forName("com.mysql.jdbc.Driver");
 
         dbConnection = DriverManager.getConnection(connectionString, dbUser,dbPass);

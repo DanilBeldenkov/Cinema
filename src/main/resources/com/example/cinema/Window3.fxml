@@ -371,7 +371,7 @@
                                     </ImageView>
                                  </top>
                                  <bottom>
-                                    <Button fx:id="B1" alignment="CENTER" mnemonicParsing="false" text="Заказать билеты" textOverrun="CLIP" BorderPane.alignment="CENTER" />
+                                    <Button fx:id="B2" alignment="CENTER" mnemonicParsing="false" text="Заказать билеты" textOverrun="CLIP" BorderPane.alignment="CENTER" />
                                  </bottom>
                                  <center>
                                     <VBox prefHeight="76.0" prefWidth="252.0" BorderPane.alignment="CENTER">
@@ -399,12 +399,12 @@
                                  <top>
                                     <ImageView fitHeight="244.0" fitWidth="218.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                                        <image>
-                                          <Image url="@W3/Films/Иван%20Васильевич%20меняет%20профессию.jpg" />
+                                          <Image url="@W3/Films/Иван.jpg" />
                                        </image>
                                     </ImageView>
                                  </top>
                                  <bottom>
-                                    <Button fx:id="B1" alignment="CENTER" mnemonicParsing="false" text="Заказать билеты" textOverrun="CLIP" BorderPane.alignment="CENTER" />
+                                    <Button fx:id="B3" alignment="CENTER" mnemonicParsing="false" text="Заказать билеты" textOverrun="CLIP" BorderPane.alignment="CENTER" />
                                  </bottom>
                                  <center>
                                     <VBox prefHeight="76.0" prefWidth="252.0" BorderPane.alignment="TOP_CENTER">
@@ -436,12 +436,12 @@
                                  <top>
                                     <ImageView fitHeight="244.0" fitWidth="218.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                                        <image>
-                                          <Image url="@W3/Films/Пираты%20Карибского%20моря%20(Проклятие%20Чёрной%20жемчужины).jpg" />
+                                          <Image url="@W3/Films/Пираты.jpg" />
                                        </image>
                                     </ImageView>
                                  </top>
                                  <bottom>
-                                    <Button alignment="CENTER" mnemonicParsing="false" text="Заказать билеты" textOverrun="CLIP" BorderPane.alignment="CENTER" />
+                                    <Button fx:id="B4" alignment="CENTER" mnemonicParsing="false" text="Заказать билеты" textOverrun="CLIP" BorderPane.alignment="CENTER" />
                                  </bottom>
                                  <center>
                                     <VBox alignment="CENTER" prefHeight="76.0" prefWidth="252.0" BorderPane.alignment="CENTER">
@@ -469,12 +469,12 @@
                                  <top>
                                     <ImageView fitHeight="244.0" fitWidth="218.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                                        <image>
-                                          <Image url="@W3/Films/Побег%20из%20Шоушенка.jpg" />
+                                          <Image url="@W3/Films/Побег.jpg" />
                                        </image>
                                     </ImageView>
                                  </top>
                                  <bottom>
-                                    <Button alignment="CENTER" mnemonicParsing="false" text="Заказать билеты" textOverrun="CLIP" BorderPane.alignment="CENTER" />
+                                    <Button fx:id="B5" alignment="CENTER" mnemonicParsing="false" text="Заказать билеты" textOverrun="CLIP" BorderPane.alignment="CENTER" />
                                  </bottom>
                                  <center>
                                     <VBox prefHeight="76.0" prefWidth="252.0" BorderPane.alignment="CENTER">
@@ -502,12 +502,12 @@
                                  <top>
                                     <ImageView fitHeight="244.0" fitWidth="218.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                                        <image>
-                                          <Image url="@W3/Films/Тёмный%20рыцарь%20(Возрождение%20легенды).jpg" />
+                                          <Image url="@W3/Films/Тёмный.jpg" />
                                        </image>
                                     </ImageView>
                                  </top>
                                  <bottom>
-                                    <Button alignment="CENTER" mnemonicParsing="false" text="Заказать билеты" textOverrun="CLIP" BorderPane.alignment="CENTER" />
+                                    <Button fx:id="B6" alignment="CENTER" mnemonicParsing="false" text="Заказать билеты" textOverrun="CLIP" BorderPane.alignment="CENTER" />
                                  </bottom>
                                  <center>
                                     <VBox alignment="CENTER" prefHeight="76.0" prefWidth="252.0" BorderPane.alignment="TOP_CENTER">
@@ -544,7 +544,7 @@
                                     </ImageView>
                                  </top>
                                  <bottom>
-                                    <Button alignment="CENTER" mnemonicParsing="false" text="Заказать билеты" textOverrun="CLIP" BorderPane.alignment="CENTER" />
+                                    <Button fx:id="B7" alignment="CENTER" mnemonicParsing="false" text="Заказать билеты" textOverrun="CLIP" BorderPane.alignment="CENTER" />
                                  </bottom>
                                  <center>
                                     <VBox alignment="CENTER" prefHeight="76.0" prefWidth="252.0" BorderPane.alignment="CENTER">
@@ -572,12 +572,12 @@
                                  <top>
                                     <ImageView fitHeight="244.0" fitWidth="218.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                                        <image>
-                                          <Image url="@W3/Films/Мстители%20(Финал).jpg" />
+                                          <Image url="@W3/Films/Мстители.jpg" />
                                        </image>
                                     </ImageView>
                                  </top>
                                  <bottom>
-                                    <Button alignment="CENTER" mnemonicParsing="false" text="Заказать билеты" textOverrun="CLIP" BorderPane.alignment="CENTER" />
+                                    <Button fx:id="B8" alignment="CENTER" mnemonicParsing="false" text="Заказать билеты" textOverrun="CLIP" BorderPane.alignment="CENTER" />
                                  </bottom>
                                  <center>
                                     <VBox prefHeight="76.0" prefWidth="252.0" BorderPane.alignment="CENTER">
@@ -605,12 +605,12 @@
                                  <top>
                                     <ImageView fitHeight="244.0" fitWidth="218.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                                        <image>
-                                          <Image url="@W3/Films/Шерлок%20Холмс.jpg" />
+                                          <Image url="@W3/Films/Шерлок.jpg" />
                                        </image>
                                     </ImageView>
                                  </top>
                                  <bottom>
-                                    <Button fx:id="B1" alignment="CENTER" mnemonicParsing="false" text="Заказать билеты" textOverrun="CLIP" BorderPane.alignment="CENTER" />
+                                    <Button fx:id="B9" alignment="CENTER" mnemonicParsing="false" text="Заказать билеты" textOverrun="CLIP" BorderPane.alignment="CENTER" />
                                  </bottom>
                                  <center>
                                     <VBox alignment="CENTER" prefHeight="76.0" prefWidth="252.0" BorderPane.alignment="TOP_CENTER">

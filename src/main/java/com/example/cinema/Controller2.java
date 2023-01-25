@@ -62,6 +62,4 @@ public class Controller2 {
 
         dbBase.signUpUser(user);
     }
-
-
 }

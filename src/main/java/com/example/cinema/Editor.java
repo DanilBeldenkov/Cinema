@@ -23,7 +23,7 @@ public class Editor {
             System.out.println("Connection succesfull!");
 
             // команда создания таблицы
-             String sqlCommand = "CREATE TABLE films (Id INT PRIMARY KEY AUTO_INCREMENT)";
+            // String sqlCommand = "CREATE TABLE films (Id INT PRIMARY KEY AUTO_INCREMENT)";
 
 
             try(Connection conn = DriverManager.getConnection(url, username, password)) {
@@ -31,16 +31,16 @@ public class Editor {
                 // создание таблицы
                  Statement statement = conn.createStatement();
 
-                   statement.executeUpdate(sqlCommand);
+                  // statement.executeUpdate(sqlCommand);
 
 
-                /* Statement statement = conn.createStatement();
-                *
+                 //Statement statement = conn.createStatement();
+
                 //Добавление в таблицу
-                * int rows = statement.executeUpdate("INSERT users(FirstName, Login, Password, Country, City) VALUES ('Админ', 'admin', 1111, 'Россия', 'Пенза')," +
-                *        "('Денис', 'Denis', 1379, 'Россия', 'Пенза'), ('Данил', 'Danil', 1234, 'Россия', 'Пенза')");
-                * System.out.printf("Added %d rows", rows);
-                */
+                // int rows = statement.executeUpdate("INSERT users(FirstName, Login, Password, Country, City) VALUES ('Админ', 'admin', 1111, 'Россия', 'Пенза')," +
+                       // "('Денис', 'Denis', 1379, 'Россия', 'Пенза'), ('Данил', 'Danil', 1234, 'Россия', 'Пенза')");
+               //  System.out.printf("Added %d rows", rows);
+
 
                 //Редактирование таблицы
                 /* Statement statement = conn.createStatement();
