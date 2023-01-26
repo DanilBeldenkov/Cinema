@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f1f3c8a-a47f-4990-a553-a2c870b8177a" name="Changes" comment="Refactor">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W4/Логотип.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/DateBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/DateBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Editor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Result.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +66,20 @@
       <recent name="com.example.cinema" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Window5">
+  <component name="RunManager" selected="Application.DateBase">
+    <configuration name="DateBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.cinema.DateBase" />
+      <module name="Cinema" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.cinema.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Result" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.cinema.Result" />
       <module name="Cinema" />
@@ -104,19 +119,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Window3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.cinema.Window3" />
-      <module name="Cinema" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.cinema.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Window4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.cinema.Window4" />
       <module name="Cinema" />
@@ -145,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DateBase" />
         <item itemvalue="Application.Window5" />
         <item itemvalue="Application.Window4" />
         <item itemvalue="Application.Result" />
         <item itemvalue="Application.Window1" />
-        <item itemvalue="Application.Window3" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674724477876</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Refactor">
+      <created>1674724564351</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674724564351</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
