@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f1f3c8a-a47f-4990-a553-a2c870b8177a" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W5/Логотип.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Const.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Const.java" afterDir="false" />
+    <list default="true" id="9f1f3c8a-a47f-4990-a553-a2c870b8177a" name="Changes" comment="Refactor">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W4/Логотип.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Projects/IntelliJIDEAProjects/Cinema/Cinema/src/main/resources/com/example/cinema/W5",
+    "last_opened_file_path": "D:/Projects/IntelliJIDEAProjects/Cinema/Cinema/src/main/resources/com/example/cinema/W4",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -54,6 +52,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema\W4" />
+      <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema\W5" />
       <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema\W3" />
       <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema" />
     </key>
@@ -211,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674645578156</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Refactor">
+      <created>1674724477876</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674724477876</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -221,6 +228,7 @@
     <MESSAGE value="Films" />
     <MESSAGE value="Result" />
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor" />
   </component>
 </project>
