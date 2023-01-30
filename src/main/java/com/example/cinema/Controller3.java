@@ -11,6 +11,8 @@ import java.sql.SQLException;
 public class Controller3 {
 
     @FXML
+    private Button BExit;
+    @FXML
     private Button B1;
 
     @FXML
@@ -39,6 +41,18 @@ public class Controller3 {
 
     @FXML
     void initialize() {
+        BExit.setOnAction(e -> {
+            System.out.println("Выход из приложения");
+
+            WindowExit windowExit = new WindowExit();
+            try {
+                windowExit.start(new Stage());
+                BExit.getScene().getWindow().hide();
+            } catch (IOException ex) {
+                throw new RuntimeException(ex);
+            }
+        });
+
         B1.setOnAction(e -> {
             Window4 window4 = new Window4();
             try {

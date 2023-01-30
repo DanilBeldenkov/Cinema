@@ -60,6 +60,7 @@ public class DateBase extends Configs {
 
         return resSet;
     }
+    /*
     public static void main(String[] args) {
         try{
             String url = "jdbc:mysql://localhost/cinema?serverTimezone=Europe/Moscow&useSSL=false";
@@ -150,6 +151,8 @@ public class DateBase extends Configs {
 
         return DriverManager.getConnection(url, username, password);
     }
+
+     */
 }
 
 

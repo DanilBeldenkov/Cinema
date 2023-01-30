@@ -14,6 +14,9 @@ public class Controller2 {
     private Button B1;
 
     @FXML
+    private Button BExit;
+
+    @FXML
     private TextField TF1;
 
     @FXML
@@ -42,6 +45,18 @@ public class Controller2 {
                 System.out.println("Авторизация");
             }
             catch (IOException ex) {
+                throw new RuntimeException(ex);
+            }
+        });
+
+        BExit.setOnAction(e -> {
+            System.out.println("Выход из приложения");
+
+            WindowExit windowExit = new WindowExit();
+            try {
+                windowExit.start(new Stage());
+                BExit.getScene().getWindow().hide();
+            } catch (IOException ex) {
                 throw new RuntimeException(ex);
             }
         });

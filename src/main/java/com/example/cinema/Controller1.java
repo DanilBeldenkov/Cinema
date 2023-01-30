@@ -4,6 +4,7 @@ import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
+import javafx.scene.image.ImageView;
 import javafx.stage.Stage;
 
 import java.io.IOException;
@@ -11,19 +12,18 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class Controller1 {
-
     @FXML
     private Button B1;
-
     @FXML
     private Button B2;
-
+    @FXML
+    private Button BExit;
+    @FXML
+    private ImageView I1;
     @FXML
     private PasswordField PF1;
-
     @FXML
     private TextField TF1;
-
     @FXML
     void initialize() {
 
@@ -65,6 +65,17 @@ public class Controller1 {
             }
         });
 
+        BExit.setOnAction(e -> {
+            System.out.println("Выход из приложения");
+
+            WindowExit windowExit = new WindowExit();
+            try {
+                windowExit.start(new Stage());
+                BExit.getScene().getWindow().hide();
+            } catch (IOException ex) {
+                throw new RuntimeException(ex);
+            }
+        });
     }
 
     private void loginUsers(String login, String pass) {
