@@ -22,9 +22,9 @@ public class ControllerExit {
         });
 
         B2.setOnAction(e -> {
-            Window1 window1 = new Window1();
+            WindowStart windowStart = new WindowStart();
             try {
-                window1.start(new Stage());
+                windowStart.start(new Stage());
                 B2.getScene().getWindow().hide();
             } catch (IOException ex) {
                 throw new RuntimeException(ex);

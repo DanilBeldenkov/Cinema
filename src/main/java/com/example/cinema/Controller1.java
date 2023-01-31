@@ -4,7 +4,6 @@ import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
-import javafx.scene.image.ImageView;
 import javafx.stage.Stage;
 
 import java.io.IOException;
@@ -12,18 +11,22 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class Controller1 {
+
     @FXML
     private Button B1;
+
     @FXML
     private Button B2;
+
     @FXML
     private Button BExit;
-    @FXML
-    private ImageView I1;
+
     @FXML
     private PasswordField PF1;
+
     @FXML
     private TextField TF1;
+
     @FXML
     void initialize() {
 

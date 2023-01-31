@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.cinema.Controller6">
+   <children>
+      <TextArea fx:id="TA1" layoutX="253.0" layoutY="211.0" prefHeight="71.0" prefWidth="497.0" text="Телефон для связи: +7-937-416-33-74&#10;Контактное лицо: Фролов Михаил Владимирович">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </TextArea>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="59.0" layoutY="171.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@W6/Номер.png" />
+         </image>
+      </ImageView>
+      <HBox layoutY="100.0" prefHeight="25.0" prefWidth="810.0">
+         <children>
+            <ImageView fitHeight="24.0" fitWidth="111.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="103.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="98.0" layoutX="135.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="110.0" layoutX="260.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="103.0" layoutX="385.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="168.0" layoutX="510.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="168.0" layoutX="635.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="168.0" layoutX="496.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="168.0" layoutX="577.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="168.0" layoutX="658.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+         </children>
+      </HBox>
+      <HBox layoutY="374.0" prefHeight="25.0" prefWidth="810.0">
+         <children>
+            <ImageView fitHeight="24.0" fitWidth="111.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="103.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="98.0" layoutX="135.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="110.0" layoutX="260.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="103.0" layoutX="385.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="168.0" layoutX="510.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="168.0" layoutX="635.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="168.0" layoutX="496.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="168.0" layoutX="577.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="168.0" layoutX="658.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Плёнка2.png" />
+               </image>
+            </ImageView>
+         </children>
+      </HBox>
+      <AnchorPane prefHeight="100.0" prefWidth="800.0" style="-fx-background-color: #00AAAA;">
+         <children>
+            <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="14.0" layoutY="18.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@W6/Логотип.png" />
+               </image>
+            </ImageView>
+            <Button fx:id="B1" layoutX="644.0" layoutY="18.0" mnemonicParsing="false" text="Вернуться" />
+            <Pane layoutX="728.0" layoutY="8.0" prefHeight="45.0" prefWidth="72.0">
+               <children>
+                  <ImageView fitHeight="45.0" fitWidth="72.0" layoutX="1.0" layoutY="2.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@WExit/Exit.png" />
+                     </image>
+                  </ImageView>
+                  <Button fx:id="BExit" layoutX="15.0" mnemonicParsing="false" opacity="0.0" prefHeight="45.0" prefWidth="45.0" text="Закрыть" textAlignment="CENTER" />
+               </children>
+            </Pane>
+         </children>
+      </AnchorPane>
+   </children>
+</Pane>

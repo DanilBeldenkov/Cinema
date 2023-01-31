@@ -38,9 +38,9 @@ public class Controller2 {
 
             signUpNewUser();
 
-            Window1 window1 = new Window1();
+            WindowStart windowStart = new WindowStart();
             try {
-                window1.start(new Stage());
+                windowStart.start(new Stage());
                 B1.getScene().getWindow().hide();
                 System.out.println("Авторизация");
             }

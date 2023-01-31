@@ -4,15 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f1f3c8a-a47f-4990-a553-a2c870b8177a" name="Changes" comment="Refactor">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/QRCode.java" afterDir="false" />
+    <list default="true" id="9f1f3c8a-a47f-4990-a553-a2c870b8177a" name="Changes" comment="Exit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Window6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W6/Логотип.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W6/Номер.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W6/Плёнка2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W6/Прожектора.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window6.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerExit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerExit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Window1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Window5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/Window5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W3/Плёнка.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W3/Плёнка.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window1.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window1.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window2.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window2.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window3.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window3.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window4.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window4.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window5.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window5.fxml" afterDir="false" />
@@ -58,8 +70,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Projects/IntelliJIDEAProjects/Cinema/javase-3.3.0.jar",
-    "project.structure.last.edited": "Global Libraries",
+    "last_opened_file_path": "D:/Projects/IntelliJIDEAProjects/Cinema/Cinema/src/main/resources/com/example/cinema",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.3408476",
     "settings.editor.selected.configurable": "configurable.group.build"
@@ -67,42 +79,25 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema" />
+      <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources" />
       <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema\W4" />
       <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema\W5" />
       <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema\W3" />
-      <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema" />
       <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\java" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.example.cinema" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Window1">
-    <configuration name="DateBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.cinema.DateBase" />
+  <component name="RunManager" selected="Application.WindowStart">
+    <configuration name="Window1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.cinema.Window1" />
       <module name="Cinema" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.cinema.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Cinema" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QRCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.cinema.QRCode" />
-      <module name="Cinema" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\pingv\.jdks\javafx-sdk-19.0.2.1\lib&quot;\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.cinema.*" />
@@ -152,13 +147,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Window3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.cinema.Window3" />
+      <module name="Cinema" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.cinema.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Window5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.cinema.Window5" />
+      <module name="Cinema" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.cinema.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.cinema.WindowStart" />
+      <module name="Cinema" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.cinema.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Window5" />
+      <item itemvalue="Application.WindowStart" />
+      <item itemvalue="Application.Window1" />
+      <item itemvalue="Application.Window2" />
+      <item itemvalue="Application.Window3" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WindowStart" />
         <item itemvalue="Application.Window1" />
-        <item itemvalue="Application.QRCode" />
+        <item itemvalue="Application.Window5" />
         <item itemvalue="Application.Window2" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DateBase" />
+        <item itemvalue="Application.Window1" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674726665659</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Exit">
+      <created>1675064628348</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675064628348</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -266,6 +314,7 @@
     <MESSAGE value="Result" />
     <MESSAGE value="Commit" />
     <MESSAGE value="Refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor" />
+    <MESSAGE value="Exit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exit" />
   </component>
 </project>

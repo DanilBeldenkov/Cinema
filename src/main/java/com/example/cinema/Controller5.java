@@ -2,8 +2,14 @@ package com.example.cinema;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
+import javafx.stage.Stage;
+
+import java.io.IOException;
 
 public class Controller5 {
+
+    @FXML
+    private Button B1;
 
     @FXML
     private Button B1_1;
@@ -97,5 +103,30 @@ public class Controller5 {
 
     @FXML
     private Button BExit;
+
+    @FXML
+    void initialize(){
+        B1.setOnAction(event -> {
+            Window6 window6 = new Window6();
+            try {
+                window6.start(new Stage());
+                B1.getScene().getWindow().hide();
+            } catch (IOException ex) {
+                throw new RuntimeException(ex);
+            }
+        });
+
+        BExit.setOnAction(event -> {
+            System.out.println("Выход из приложения");
+
+            WindowExit windowExit = new WindowExit();
+            try {
+                windowExit.start(new Stage());
+                BExit.getScene().getWindow().hide();
+            } catch (IOException ex) {
+                throw new RuntimeException(ex);
+            }
+        });
+    }
 
 }
