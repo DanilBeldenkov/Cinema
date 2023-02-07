@@ -7,10 +7,10 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class WindowAdmin1 extends Application {
+public class WindowAdminStart extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(WindowAdmin1.class.getResource("WindowAdmin1.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(WindowAdminStart.class.getResource("WindowAdminStart.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 800, 400);
         stage.setTitle("Admin");
         stage.setScene(scene);

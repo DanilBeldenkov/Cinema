@@ -1,10 +1,8 @@
 package com.example.cinema;
 
-import javax.security.auth.login.LoginException;
 import java.math.BigInteger;
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
-import java.security.NoSuchAlgorithmException;
 
 public class MD5 {
     public static String hashingPassword(String password) {

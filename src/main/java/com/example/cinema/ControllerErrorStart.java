@@ -3,7 +3,7 @@ package com.example.cinema;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 
-public class ControllerError1 {
+public class ControllerErrorStart {
 
     @FXML
     private Button B1;

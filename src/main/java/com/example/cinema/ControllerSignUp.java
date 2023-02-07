@@ -8,7 +8,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class Controller2 {
+public class ControllerSignUp {
 
     @FXML
     private Button B1;

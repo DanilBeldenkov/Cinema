@@ -10,7 +10,7 @@
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.layout.VBox?>
 
-<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.cinema.Controller1">
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.cinema.ControllerStart">
    <children>
       <HBox layoutX="228.0" layoutY="233.0" prefHeight="25.0" prefWidth="345.0" spacing="171.0">
          <children>
@@ -28,32 +28,32 @@
          <children>
             <ImageView fitHeight="150.0" fitWidth="366.0" layoutY="2.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@W1/Кинолента.png" />
+                  <Image url="@WStart/Кинолента.png" />
                </image>
             </ImageView>
             <ImageView fitHeight="40.0" fitWidth="53.0" layoutX="63.0" layoutY="57.0">
                <image>
-                  <Image url="@W1/Кино1.gif" />
+                  <Image url="@WStart/Кино1.gif" />
                </image>
             </ImageView>
             <ImageView fitHeight="40.0" fitWidth="53.0" layoutX="178.0" layoutY="56.0">
                <image>
-                  <Image url="@W1/Кино2.gif" />
+                  <Image url="@WStart/Кино2.gif" />
                </image>
             </ImageView>
             <ImageView fitHeight="40.0" fitWidth="53.0" layoutX="120.0" layoutY="57.0">
                <image>
-                  <Image url="@W1/Кино3.gif" />
+                  <Image url="@WStart/Кино3.gif" />
                </image>
             </ImageView>
             <ImageView fitHeight="40.0" fitWidth="53.0" layoutX="235.0" layoutY="57.0">
                <image>
-                  <Image url="@W1/Кино5.gif" />
+                  <Image url="@WStart/Кино5.gif" />
                </image>
             </ImageView>
             <ImageView fitHeight="40.0" fitWidth="53.0" layoutX="5.0" layoutY="57.0">
                <image>
-                  <Image url="@W1/Кино4.gif" />
+                  <Image url="@WStart/Кино4.gif" />
                </image>
             </ImageView>
          </children></Pane>
@@ -61,32 +61,32 @@
          <children>
             <ImageView fitHeight="150.0" fitWidth="366.0" layoutY="2.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@W1/Кинолента.png" />
+                  <Image url="@WStart/Кинолента.png" />
                </image>
             </ImageView>
             <ImageView fitHeight="40.0" fitWidth="53.0" layoutX="63.0" layoutY="57.0">
                <image>
-                  <Image url="@W1/Кино1.gif" />
+                  <Image url="@WStart/Кино1.gif" />
                </image>
             </ImageView>
             <ImageView fitHeight="40.0" fitWidth="53.0" layoutX="178.0" layoutY="56.0">
                <image>
-                  <Image url="@W1/Кино2.gif" />
+                  <Image url="@WStart/Кино2.gif" />
                </image>
             </ImageView>
             <ImageView fitHeight="40.0" fitWidth="53.0" layoutX="120.0" layoutY="57.0">
                <image>
-                  <Image url="@W1/Кино3.gif" />
+                  <Image url="@WStart/Кино3.gif" />
                </image>
             </ImageView>
             <ImageView fitHeight="40.0" fitWidth="53.0" layoutX="235.0" layoutY="57.0">
                <image>
-                  <Image url="@W1/Кино5.gif" />
+                  <Image url="@WStart/Кино5.gif" />
                </image>
             </ImageView>
             <ImageView fitHeight="40.0" fitWidth="53.0" layoutX="5.0" layoutY="57.0">
                <image>
-                  <Image url="@W1/Кино4.gif" />
+                  <Image url="@WStart/Кино4.gif" />
                </image>
             </ImageView>
          </children>
@@ -95,7 +95,7 @@
          <children>
             <ImageView fitHeight="63.0" fitWidth="245.0" layoutX="300.0" layoutY="29.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@W1/Логотип.png" />
+                  <Image url="@WStart/Логотип.png" />
                </image>
             </ImageView>
             <Pane layoutX="714.0" layoutY="14.0" prefHeight="45.0" prefWidth="72.0">

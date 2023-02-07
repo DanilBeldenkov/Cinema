@@ -12,13 +12,13 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.cinema.Controller5">
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.cinema.ControllerPlaces">
    <children>
       <AnchorPane prefHeight="120.0" prefWidth="800.0" style="-fx-background-color: #00AAAA;">
          <children>
             <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="14.0" layoutY="28.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@W5/Логотип.png" />
+                  <Image url="@WPlaces/Логотип.png" />
                </image>
             </ImageView>
             <Pane layoutX="714.0" layoutY="14.0" prefHeight="45.0" prefWidth="72.0">
@@ -128,7 +128,7 @@
          <top>
             <ImageView fitHeight="72.0" fitWidth="502.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                <image>
-                  <Image url="@W5/Проект%20сцены.png" />
+                  <Image url="@WPlaces/Проект%20сцены.png" />
                </image>
             </ImageView>
          </top>

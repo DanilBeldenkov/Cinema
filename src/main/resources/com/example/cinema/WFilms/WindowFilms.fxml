@@ -13,13 +13,13 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.cinema.Controller3">
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.cinema.ControllerFilms">
    <children>
       <AnchorPane prefHeight="100.0" prefWidth="800.0" style="-fx-background-color: #00AAAA;">
          <children>
             <ImageView fitHeight="60.0" fitWidth="230.0" layoutX="14.0" layoutY="20.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@W3/Логотип.png" />
+                  <Image url="@WFilms/Логотип.png" />
                </image>
             </ImageView>
             <Pane layoutX="710.0" layoutY="16.0" prefHeight="45.0" prefWidth="72.0">
@@ -44,27 +44,27 @@
                            <children>
                               <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="410.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="410.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                            </children>
@@ -73,27 +73,27 @@
                            <children>
                               <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="410.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="410.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                            </children>
@@ -102,27 +102,27 @@
                            <children>
                               <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="410.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="410.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                            </children>
@@ -131,27 +131,27 @@
                            <children>
                               <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="410.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="410.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                            </children>
@@ -160,27 +160,27 @@
                            <children>
                               <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="410.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="410.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                            </children>
@@ -189,27 +189,27 @@
                            <children>
                               <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="410.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                               <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="410.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@W3/Плёнка2.png" />
+                                    <Image url="@WFilms/Плёнка2.png" />
                                  </image>
                               </ImageView>
                            </children>
@@ -227,7 +227,7 @@
                                  <top>
                                     <ImageView fitHeight="244.0" fitWidth="218.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                                        <image>
-                                          <Image url="@W3/Films/1+1.jpg" />
+                                          <Image url="@WFilms/Cinema/1+1.jpg" />
                                        </image>
                                     </ImageView>
                                  </top>
@@ -260,7 +260,7 @@
                                  <top>
                                     <ImageView fitHeight="244.0" fitWidth="218.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                                        <image>
-                                          <Image url="@W3/Films/Брат.jpg" />
+                                          <Image url="@WFilms/Cinema/Брат.jpg" />
                                        </image>
                                     </ImageView>
                                  </top>
@@ -293,7 +293,7 @@
                                  <top>
                                     <ImageView fitHeight="244.0" fitWidth="218.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                                        <image>
-                                          <Image url="@W3/Films/Иван.jpg" />
+                                          <Image url="@WFilms/Cinema/Иван.jpg" />
                                        </image>
                                     </ImageView>
                                  </top>
@@ -330,7 +330,7 @@
                                  <top>
                                     <ImageView fitHeight="244.0" fitWidth="218.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                                        <image>
-                                          <Image url="@W3/Films/Пираты.jpg" />
+                                          <Image url="@WFilms/Cinema/Пираты.jpg" />
                                        </image>
                                     </ImageView>
                                  </top>
@@ -363,7 +363,7 @@
                                  <top>
                                     <ImageView fitHeight="244.0" fitWidth="218.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                                        <image>
-                                          <Image url="@W3/Films/Побег.jpg" />
+                                          <Image url="@WFilms/Cinema/Побег.jpg" />
                                        </image>
                                     </ImageView>
                                  </top>
@@ -396,7 +396,7 @@
                                  <top>
                                     <ImageView fitHeight="244.0" fitWidth="218.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                                        <image>
-                                          <Image url="@W3/Films/Тёмный.jpg" />
+                                          <Image url="@WFilms/Cinema/Тёмный.jpg" />
                                        </image>
                                     </ImageView>
                                  </top>
@@ -433,7 +433,7 @@
                                  <top>
                                     <ImageView fitHeight="244.0" fitWidth="218.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                                        <image>
-                                          <Image url="@W3/Films/Воин.jpeg" />
+                                          <Image url="@WFilms/Cinema/Воин.jpeg" />
                                        </image>
                                     </ImageView>
                                  </top>
@@ -466,7 +466,7 @@
                                  <top>
                                     <ImageView fitHeight="244.0" fitWidth="218.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                                        <image>
-                                          <Image url="@W3/Films/Мстители.jpg" />
+                                          <Image url="@WFilms/Cinema/Мстители.jpg" />
                                        </image>
                                     </ImageView>
                                  </top>
@@ -499,7 +499,7 @@
                                  <top>
                                     <ImageView fitHeight="244.0" fitWidth="218.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                                        <image>
-                                          <Image url="@W3/Films/Шерлок.jpg" />
+                                          <Image url="@WFilms/Cinema/Шерлок.jpg" />
                                        </image>
                                     </ImageView>
                                  </top>

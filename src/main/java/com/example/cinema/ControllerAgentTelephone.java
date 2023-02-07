@@ -6,7 +6,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class Controller6 {
+public class ControllerAgentTelephone {
 
     @FXML
     private Button BExit;
@@ -16,9 +16,9 @@ public class Controller6 {
     @FXML
     void initialize() {
         B1.setOnAction(event -> {
-            Window3 window3 = new Window3();
+            WindowFilms windowFilms = new WindowFilms();
             try {
-                window3.start(new Stage());
+                windowFilms.start(new Stage());
                 B1.getScene().getWindow().hide();
             } catch (IOException ex) {
                 throw new RuntimeException(ex);

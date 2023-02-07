@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-public class Controller1 {
+public class ControllerStart {
 
     @FXML
     private Button B1;
@@ -40,9 +40,9 @@ public class Controller1 {
 
             else {
                 try {
-                    WindowError1 windowError1 = new WindowError1();
+                    WindowErrorStart windowErrorStart = new WindowErrorStart();
                     try {
-                        windowError1.start(new Stage());
+                        windowErrorStart.start(new Stage());
                         B1.getScene().getWindow();
                     } catch (IOException ex) {
                         throw new RuntimeException(ex);
@@ -59,9 +59,9 @@ public class Controller1 {
 
             System.out.println("Регистрация");
 
-            Window2 window2 = new Window2();
+            WindowSignUp windowSignUp = new WindowSignUp();
             try {
-                window2.start(new Stage());
+                windowSignUp.start(new Stage());
                 B2.getScene().getWindow().hide();
             } catch (IOException ex) {
                 throw new RuntimeException(ex);
@@ -100,9 +100,9 @@ public class Controller1 {
 
         if (counter >= 1 && login.equals("admin") && TF1 !=null && PF1 !=null){
             try {
-                WindowAdmin0 windowAdmin0 = new WindowAdmin0();
+                WindowAdminStart windowAdminStart = new WindowAdminStart();
                 try {
-                    windowAdmin0.start(new Stage());
+                    windowAdminStart.start(new Stage());
                     B1.getScene().getWindow().hide();
                 } catch (IOException e) {
                     throw new RuntimeException(e);
@@ -112,9 +112,9 @@ public class Controller1 {
             }
         } else if (counter >= 1 && TF1 != null && PF1 != null) {
             try {
-                Window3 window3 = new Window3();
+                WindowFilms windowFilms = new WindowFilms();
                 try {
-                    window3.start(new Stage());
+                    windowFilms.start(new Stage());
                     B1.getScene().getWindow().hide();
                 } catch (IOException ex) {
                     throw new RuntimeException(ex);
@@ -124,9 +124,9 @@ public class Controller1 {
             }
             System.out.println("Авторизация правильная");
         } else {
-            WindowError1 windowError1 = new WindowError1();
+            WindowErrorStart windowErrorStart = new WindowErrorStart();
             try {
-                windowError1.start(new Stage());
+                windowErrorStart.start(new Stage());
             } catch (IOException ex) {
                 throw new RuntimeException(ex);
             }

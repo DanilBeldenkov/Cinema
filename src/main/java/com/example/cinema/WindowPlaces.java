@@ -7,12 +7,12 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class Window6 extends Application {
+public class WindowPlaces extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(Window6.class.getResource("Window6.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), 800, 400);
-        stage.setTitle("Agent");
+        FXMLLoader fxmlLoader = new FXMLLoader(WindowPlaces.class.getResource("WindowPlaces.fxml"));
+        Scene scene = new Scene(fxmlLoader.load(), 800, 600);
+        stage.setTitle("Places");
         stage.setScene(scene);
         stage.show();
     }

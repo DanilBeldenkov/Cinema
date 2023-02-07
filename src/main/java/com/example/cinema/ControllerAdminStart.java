@@ -6,7 +6,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class ControllerAdmin0 {
+public class ControllerAdminStart {
 
     @FXML
     private Button B1;
@@ -19,9 +19,9 @@ public class ControllerAdmin0 {
 
         B1.setOnAction(e -> {
 
-            Window3 window3 = new Window3();
+            WindowFilms windowFilms = new WindowFilms();
             try {
-                window3.start(new Stage());
+                windowFilms.start(new Stage());
                 B1.getScene().getWindow().hide();
                 System.out.println("Список фильмов");
             }
@@ -32,9 +32,9 @@ public class ControllerAdmin0 {
 
         B2.setOnAction(event -> {
 
-            WindowAdmin1 windowAdmin1 = new WindowAdmin1();
+            WindowAdminRefactor windowAdminRefactor = new WindowAdminRefactor();
             try {
-                windowAdmin1.start(new Stage());
+                windowAdminRefactor.start(new Stage());
                 B2.getScene().getWindow().hide();
                 System.out.println("Admin");
             }
