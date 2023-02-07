@@ -4,85 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f1f3c8a-a47f-4990-a553-a2c870b8177a" name="Changes" comment="Exit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/MUSOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WFilms/Cinema/1+1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WFilms/Cinema/Брат.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WFilms/Cinema/Воин.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WFilms/Cinema/Иван.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WFilms/Cinema/Мстители.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WFilms/Cinema/Пираты.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WFilms/Cinema/Побег.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WFilms/Cinema/Тёмный.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WFilms/Cinema/Шерлок.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WFilms/Плёнка.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WFilms/Плёнка1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WFilms/Плёнка2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WFilms/Плёнка3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WStart/Логотип.png" afterDir="false" />
+    <list default="true" id="9f1f3c8a-a47f-4990-a553-a2c870b8177a" name="Changes" comment="V1.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerSignUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerFilms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerSessions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerPlaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Controller6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerAgentTelephone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerAdmin0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerAdminStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerAdmin1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerAdminRefactor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerError1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerErrorStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerError2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerErrorSignUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/DateBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/DateBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/MD5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/MD5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Window2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowSignUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Window3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowFilms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Window4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowSessions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Window5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowPlaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/Window6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowAgentTelephone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowAdmin0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowAdminStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowAdmin1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowAdminRefactor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowError1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowErrorStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowError2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowErrorSignUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/WindowStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W1/Кино1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WStart/Кино1.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W1/Кино2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WStart/Кино2.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W1/Кино3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WStart/Кино3.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W1/Кино4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WStart/Кино4.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W1/Кино5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WStart/Кино5.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W1/Кинолента.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WStart/Кинолента.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W1/Логотип.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WAgent/Логотип.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W2/Обломок.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WSignUp/Обломок.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W2/Шестирёнки.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WSignUp/Шестирёнки.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W3/Films/1+1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W3/Films/Брат.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W3/Films/Воин.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W3/Films/Иван.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W3/Films/Мстители.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W3/Films/Пираты.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W3/Films/Побег.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W3/Films/Тёмный.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W3/Films/Шерлок.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W3/Логотип.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W3/Плёнка.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W3/Плёнка1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W3/Плёнка2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W3/Плёнка3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W4/Логотип.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WFilms/Логотип.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W5/Логотип.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WPlaces/Логотип.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W5/Проект сцены.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WPlaces/Проект сцены.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W6/Логотип.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WSessions/Логотип.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W6/Номер.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WAgent/Номер.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W6/Плёнка2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WAgent/Плёнка2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/W6/Прожектора.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WAgent/Прожектора.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window1.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowStart.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window2.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowSignUp.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window3.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowFilms.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window4.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowSessions.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window5.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowPlaces.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/Window6.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowAgentTelephone.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowAdmin0.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowAdminStart.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowAdmin1.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowAdminRefactor.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowError1.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowErrorStart.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowError2.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowErrorSignUp.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,18 +43,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Projects/IntelliJIDEAProjects/Cinema/Cinema/src/main/resources/com/example/cinema&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.3408476&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Projects/IntelliJIDEAProjects/Cinema/untitled",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3408476",
+    "settings.editor.selected.configurable": "configurable.group.build"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema" />
@@ -141,6 +64,7 @@
       <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema\W3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema\WFilms" />
       <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema" />
       <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\java" />
     </key>
@@ -148,7 +72,20 @@
       <recent name="com.example.cinema" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WindowStart">
+  <component name="RunManager" selected="Application.QRCode">
+    <configuration name="QRCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.cinema.QRCode" />
+      <module name="Cinema" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.cinema.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Window1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.cinema.Window1" />
       <module name="Cinema" />
@@ -215,19 +152,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowSignUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.cinema.WindowSignUp" />
-      <module name="Cinema" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.cinema.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WindowStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.cinema.WindowStart" />
       <module name="Cinema" />
@@ -242,19 +166,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.QRCode" />
       <item itemvalue="Application.WindowFilms" />
       <item itemvalue="Application.WindowPlaces" />
-      <item itemvalue="Application.WindowSignUp" />
       <item itemvalue="Application.WindowStart" />
       <item itemvalue="Application.Window1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QRCode" />
         <item itemvalue="Application.WindowStart" />
         <item itemvalue="Application.WindowFilms" />
         <item itemvalue="Application.Window1" />
         <item itemvalue="Application.WindowPlaces" />
-        <item itemvalue="Application.WindowSignUp" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675159878819</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="V1.0">
+      <created>1675774769196</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675774769196</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -377,6 +308,7 @@
     <MESSAGE value="Commit" />
     <MESSAGE value="Refactor" />
     <MESSAGE value="Exit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exit" />
+    <MESSAGE value="V1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1.0" />
   </component>
 </project>
