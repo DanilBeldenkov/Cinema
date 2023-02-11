@@ -6,11 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="9f1f3c8a-a47f-4990-a553-a2c870b8177a" name="Changes" comment="V1.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerPlaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/ControllerPlaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowAdminRefactor.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowAdminRefactor.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowAgentTelephone.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowAgentTelephone.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowFilms.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/cinema/WindowFilms.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,6 +32,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c6ad01eb-2478-44cd-a0d0-46e66e824c82" />
+        <option name="url" value="https://github.com/DanilBeldenkov/Cinema.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -35,7 +56,10 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2KRVSOuNcVjLG0SlMgKZ6M5hpb3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -48,8 +72,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Projects/IntelliJIDEAProjects/Cinema/untitled",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "D:/Projects/IntelliJIDEAProjects/Veg",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.3408476",
     "settings.editor.selected.configurable": "configurable.group.build"
@@ -64,6 +88,7 @@
       <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema\W3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema\Res" />
       <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema\WFilms" />
       <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\resources\com\example\cinema" />
       <recent name="D:\Projects\IntelliJIDEAProjects\Cinema\Cinema\src\main\java" />
@@ -71,35 +96,11 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.example.cinema" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.cinema" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.QRCode">
-    <configuration name="QRCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.cinema.QRCode" />
-      <module name="Cinema" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.cinema.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Window1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.cinema.Window1" />
-      <module name="Cinema" />
-      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\pingv\.jdks\javafx-sdk-19.0.2.1\lib&quot;\javafx-sdk-18.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.cinema.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WindowPlaces">
     <configuration name="Window1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.cinema.Window1" />
       <module name="Cinema" />
@@ -166,19 +167,16 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.QRCode" />
+      <item itemvalue="Application.Window1" />
       <item itemvalue="Application.WindowFilms" />
       <item itemvalue="Application.WindowPlaces" />
       <item itemvalue="Application.WindowStart" />
-      <item itemvalue="Application.Window1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QRCode" />
+        <item itemvalue="Application.WindowPlaces" />
         <item itemvalue="Application.WindowStart" />
         <item itemvalue="Application.WindowFilms" />
-        <item itemvalue="Application.Window1" />
-        <item itemvalue="Application.WindowPlaces" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675774769196</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="V1.0">
+      <created>1675777792952</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1675777792952</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

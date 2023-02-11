@@ -4,14 +4,15 @@
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.control.Pagination?>
 <?import javafx.scene.control.ScrollPane?>
-<?import javafx.scene.control.TextArea?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
 
 <Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.cinema.ControllerFilms">
    <children>
@@ -352,10 +353,23 @@
          <content>
             <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="700.0" prefWidth="695.0" style="-fx-background-color: #DDDDDD;">
                <children>
+                  <ImageView fitHeight="415.0" fitWidth="710.0" layoutX="-1.0" opacity="0.5">
+                     <image>
+                        <Image url="@WFilms/Cinema/24882efea3b6a7df69b87d1f942b0307.jpg" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="415.0" fitWidth="710.0" layoutX="-1.0" layoutY="409.0" opacity="0.5">
+                     <image>
+                        <Image url="@WFilms/Cinema/Oshibki_pri_podbore_personala.jpg" />
+                     </image>
+                  </ImageView>
                   <ImageView fx:id="I1" fitHeight="198.0" fitWidth="258.0" layoutX="14.0" layoutY="15.0" pickOnBounds="true" preserveRatio="true" />
                   <BorderPane layoutX="15.0" layoutY="34.0" prefHeight="202.0" prefWidth="665.0">
                      <left>
-                        <ImageView fx:id="I1" fitHeight="202.0" fitWidth="217.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER" />
+                        <ImageView fx:id="I1" fitHeight="192.0" fitWidth="263.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
+                           <image>
+                              <Image url="@WFilms/Cinema/24882efea3b6a7df69b87d1f942b0307.jpg" />
+                           </image></ImageView>
                      </left>
                      <center>
                         <VBox prefHeight="202.0" prefWidth="222.0" BorderPane.alignment="CENTER">
@@ -365,9 +379,9 @@
                                     <Font size="20.0" />
                                  </font>
                               </Label>
-                              <Label fx:id="L2" layoutX="10.0" layoutY="10.0" prefHeight="46.0" prefWidth="162.0">
+                              <Label fx:id="L2" alignment="CENTER" contentDisplay="CENTER" layoutX="10.0" layoutY="10.0" prefHeight="98.0" prefWidth="168.0" text="1+1">
                                  <font>
-                                    <Font size="20.0" />
+                                    <Font name="Arial Black" size="50.0" />
                                  </font>
                               </Label>
                               <Label fx:id="L3" layoutX="10.0" layoutY="56.0" prefHeight="46.0" prefWidth="162.0">
@@ -379,11 +393,48 @@
                         </VBox>
                      </center>
                      <right>
-                        <TextArea prefHeight="202.0" prefWidth="301.0" visible="false" wrapText="true" BorderPane.alignment="CENTER" />
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="«1+1» (фр. Intouchables — «Неприкасаемые») — французская комедийная драма 2011 года, основанная на реальных событиях об успешном аристократе Филиппе, который в результате несчастного случая оказывается в инвалидном кресле и берёт себе в качестве помощника чернокожего, бывшего мелкого правонарушителя — Дрисса." wrappingWidth="275.13671875" BorderPane.alignment="CENTER" />
                      </right>
                   </BorderPane>
-                  <Pagination layoutX="145.0" layoutY="236.0" maxPageIndicatorCount="5" pageCount="5" prefHeight="200.0" prefWidth="444.0" />
+                  <Pagination layoutX="145.0" layoutY="238.0" maxPageIndicatorCount="5" pageCount="5" prefHeight="200.0" prefWidth="444.0" />
                   <Button fx:id="BGo" layoutX="342.0" layoutY="616.0" mnemonicParsing="false" text="Далее" />
+                  <HBox layoutX="71.0" layoutY="283.0" prefHeight="100.0" prefWidth="568.0">
+                     <children>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@WFilms/Cinema/1994x1080_1487271_%5Bwww.ArtFile.ru%5D.jpg" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@WFilms/Cinema/2007x1080_1501958_%5Bwww.ArtFile.ru%5D.jpg" />
+                           </image>
+                        </ImageView>
+                        <ImageView fitHeight="108.0" fitWidth="193.0" layoutX="210.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@WFilms/Cinema/l1I2ZCYDTu4CJd1M3nYw.jpg" />
+                           </image>
+                        </ImageView>
+                     </children>
+                  </HBox>
+                  <Button layoutX="107.0" layoutY="513.0" mnemonicParsing="false" text="15:00" />
+                  <Label layoutX="325.0" layoutY="447.0" text="Сеансы">
+                     <font>
+                        <Font name="Eras Light ITC" size="25.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="129.0" layoutY="483.0" style="-fx-background-color: white; -fx-background-radius: 50;" text="19.02.2023" />
+                  <Label layoutX="278.0" layoutY="483.0" style="-fx-background-color: white; -fx-background-radius: 50;" text="21.02.2023" />
+                  <Label layoutX="392.0" layoutY="483.0" style="-fx-background-color: white; -fx-background-radius: 50;" text="26.02.2023" />
+                  <Label layoutX="532.0" layoutY="483.0" style="-fx-background-color: white; -fx-background-radius: 50;" text="08.03.2023" />
+                  <Button layoutX="164.0" layoutY="513.0" mnemonicParsing="false" text="19:00" />
+                  <Button layoutX="135.0" layoutY="545.0" mnemonicParsing="false" text="21:30" />
+                  <Button layoutX="287.0" layoutY="513.0" mnemonicParsing="false" text="9:00" />
+                  <Button layoutX="370.0" layoutY="513.0" mnemonicParsing="false" text="19:30" />
+                  <Button layoutX="430.0" layoutY="513.0" mnemonicParsing="false" text="0:00" />
+                  <Button layoutX="513.0" layoutY="513.0" mnemonicParsing="false" text="8:00" />
+                  <Button layoutX="567.0" layoutY="513.0" mnemonicParsing="false" text="10:00" />
+                  <Button layoutX="538.0" layoutY="545.0" mnemonicParsing="false" text="18:00" />
                </children>
             </AnchorPane>
          </content>
